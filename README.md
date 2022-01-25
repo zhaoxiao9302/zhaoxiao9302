@@ -1,4 +1,3 @@
-# About_me
 
 - 👋 Hi, I’m @zhaoxiao9302
 - 👀 I’m interested in MD simulation and data processing with python
