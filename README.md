@@ -1,6 +1,6 @@
  👋 Hi, I’m @zhaoxiao9302
 - 👀 I’m interested in MD simulation and data processing with python
-- 🌱 I’m currently learning MD and machine learning for transport porperties
+- 🌱 I’m currently learning MD and machine learning for transport properties
 - 💞️ I’m looking to collaborate on something interesting about computer simulation
 - 📫 Reach me at zhaoxiao9302@hotmail.com
 
